@@ -5,11 +5,11 @@
 
 ## Oiii eu sou o Tiago Ribeiro, Desenvolvedor android
 
-
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoribeiro2000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoribeiro2000&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+<div align="center">
+  <a href="https://github.com/tiagoribeiro2000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoribeiro2000&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoribeiro2000&layout=compact&langs_count=7&theme=radical"/>
+</div>
   
   
 
