@@ -1,4 +1,4 @@
-## Sejam bem vindos!! Eu sou o Tiago Ribeiro desenvolvedor Android
+## Sejam bem vindos!!
 - 🖥️ Sou formado em Sistemas da Informação
 - 🧑‍💼 Trabalho com Suporte de TI
 - 📱 Estudo desenvolvimento p/ dispositivos móveis
