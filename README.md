@@ -1,7 +1,7 @@
 ## Sejam bem vindos!!
 - 🖥️ Sou formado em Sistemas da Informação
 - 🧑‍💼 Trabalho com Suporte de TI
-- 📱 Especializando em desenvolvimento p/dispositivos móveis para SO Androis utilizando Kotlin e Java. Java para sistemas Web.
+- 📱 Especializando em desenvolvimento p/dispositivos móveis para SO Android utilizando Kotlin e Java. Java para sistemas Web.
 
 ## Oiii eu sou o Tiago Ribeiro, Desenvolvedor Java
 
